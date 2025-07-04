@@ -22,7 +22,7 @@ An interactive Excel dashboard built to explore salary data across job roles, co
   - `UNIQUE`, `SORT`, `FILTER`, `ISNUMBER`
 - Cleaned and validated data with **data validation lists** for full interactivity
 
-![Zrzut ekranu 2025-07-04 171354](https://github.com/user-attachments/assets/8c289117-db90-4a68-9bb0-c96d9cc0e29e)
+![Zrzut ekranu 2025-07-04 225938](https://github.com/user-attachments/assets/7ad5b17a-43a0-4b50-afaa-f3b5e9b0de94)
 
 ### 📊 Dynamic Metrics
 - Used **array formulas** with `IF`, `SEARCH`, and `MEDIAN` to calculate salary based on:
